@@ -1,4 +1,4 @@
-[![AOS - Animate on scroll library](https://s32.postimg.org/ktvt59hol/aos_header.png)]
+[AOS - Animate on scroll library]
 
 [![NPM version](https://img.shields.io/npm/v/aos.svg?style=flat)]
 [![NPM downloads](https://img.shields.io/npm/dm/aos.svg?style=flat)]
